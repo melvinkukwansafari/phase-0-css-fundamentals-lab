@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+#style {
+  background-color: aqua;
+  text-align: center;
+  border-bottom-width: 25%;
+}
+#details {
+  overflow: hidden;
+  
+}
